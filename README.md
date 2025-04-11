@@ -12,7 +12,7 @@ QR Maze Adventure is a fun web application that generates a QR code from the tex
 
 ---
 
-**[➡️ View Live Demo (Link to your deployed site here!) ⬅️]**
+**[➡️ View Live Demo [(Link to your deployed site here!)](https://yididiya-kassahun.github.io/qrmazegame/) ⬅️]**
 
 ---
 
