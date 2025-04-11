@@ -16,8 +16,7 @@ QR Maze Adventure is a fun web application that generates a QR code from the tex
 
 ---
 
-![Screenshot of QR Maze Adventure showing QR code and maze side-by-side](<./path/to/your/screenshot.png>)  
-*(Replace the above line with an actual screenshot or GIF of your application)*
+![Untitled design (16)](https://github.com/user-attachments/assets/5438a9a1-ad30-40dd-944e-d02bb79575eb)
 
 ---
 
